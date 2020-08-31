@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1024198147182",
+    "firebase_url": "https://speech-profile.firebaseio.com",
+    "project_id": "speech-profile",
+    "storage_bucket": "speech-profile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024198147182:android:756ce6f5109a764ef13a7f",
+        "android_client_info": {
+          "package_name": "com.asbn.speech_profile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024198147182-itt4k87s47j7b0otfsv044aldorqk9r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALHfYfypAZkHhS2dl9SIYiaO2x9AwP_rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024198147182-itt4k87s47j7b0otfsv044aldorqk9r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
